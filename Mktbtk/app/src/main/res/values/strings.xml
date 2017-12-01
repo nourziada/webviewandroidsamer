@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">تفسير الأحلام</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sec">SecActivity</string>
+    <string name="network_error">خطأ في تحميل الصفحة</string>
+    <string name="reload">اضغط هنا لإعادة تحميل الصفحة</string>
+</resources>
